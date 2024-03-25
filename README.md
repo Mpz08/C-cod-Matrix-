@@ -1,2 +1,2 @@
-# C-cod-Matrix-
-Dos some simple Matrix multiplication
+# C-cod-Matrix
+Do some simple Matrix multiplication
